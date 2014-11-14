@@ -1,8 +1,8 @@
-[![Build Status](https://circleci.com/gh/segmentio/integration-stacklead.png)](https://circleci.com/gh/segmentio/integration-stacklead)
+[![Build Status](https://circleci.com/gh/segmentio/integration-stacklead/tree/master.png?style=badge)](https://circleci.com/gh/segmentio/integration-stacklead/tree/master)
 
-# StackLead server-side integration.
+# integration-stacklead
 
-Write me...
+StackLead server-side integration for Segment.
 
 
 ## License
