@@ -1,6 +1,6 @@
 {
   "name": "integration-stacklead",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "description": "StackLead server-side integration",
   "author": "Segment <friends@segment.com>",
